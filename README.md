@@ -19,3 +19,5 @@ To run the simulation with some other world, specify the path to the world file:
 ```
 bin/gol worlds/gosper-glider-gun.world
 ```
+
+![](docs/gosper-glider-gun.gif)
